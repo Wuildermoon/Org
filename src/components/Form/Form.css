@@ -1,0 +1,22 @@
+.form__container {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 80px 0;
+    width: 100%;
+    gap: 5%;
+    box-sizing: border-box;
+}
+
+.form__container form {
+    max-width: 40%;
+    background-color: #F6F6F6;
+    box-shadow: 7px 7px 15px 0px #00000014;
+    border-radius: 20px;
+    padding: 8px 5vw;
+}
+
+.form__container h2 {
+    font-size: 32px;
+    font-weight: 40px;
+    color: #212121;
+}
